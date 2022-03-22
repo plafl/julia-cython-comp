@@ -4,7 +4,7 @@ This repository contains benchmark code to compare Cython with Julia
 implementing an small subset of
 [LightFM](https://github.com/lyst/lightfm). 
 You can find the details on my 
-[blog](https://plopezadeva.com/2020/11/08/julia-first-impressions/).
+[blog](https://plopezadeva.com/julia-first-impressions.html).
 
 Julia code doesn't have external dependencies. For the Python
 benchmarks installing LightFM should be enough (it should pull Numpy
